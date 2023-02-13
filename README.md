@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Olá, sou um programador apaixonado por tecnologia e atualmente busco meu primeiro emprego na área de T.I. Tenho 21 anos e já estudo programação há cerca de 3 anos, com grande experiência em Python, sendo esta a minha principal linguagem de programação. Além disso, possuo conhecimentos sólidos em HTML, CSS e JavaScript.
+Hello, I am a technology enthusiast programmer currently seeking my first job in the IT field. I am 21 years old and have been studying programming for about 3 years, with great experience in Python, which is my main programming language. Additionally, I have solid knowledge of HTML, CSS, and JavaScript.
 
-Um dos meus principais focos de estudo é a aplicação de bancos de dados SQL com Python, uma ferramenta importante para o desenvolvimento de projetos sólidos e eficientes. Também tenho grande interesse em aprender sobre inteligência artificial e cibersegurança, buscando sempre aprimorar minhas habilidades e conhecimentos.
+One of my main focuses of study is the application of SQL databases with Python, an important tool for developing robust and efficient projects. I also have a great interest in learning about artificial intelligence and cybersecurity, always seeking to improve my skills and knowledge.
 
-Ao longo do meu tempo como programador, tenho desenvolvido projetos próprios, trabalhado em aplicações web e sistemas, sempre buscando oferecer soluções criativas e inovadoras. Se você procura um profissional engajado e com grande potencial de desenvolvimento, eu sou a pessoa certa para integrar sua equipe!
+Throughout my time as a programmer, I have developed my own projects and worked on web applications and systems, always seeking to offer creative and innovative solutions. If you are looking for an engaged professional with great development potential, I am the right person to integrate your team!
 
 
 

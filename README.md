@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Carlos Guilherme 👋
 
 Hello, I am a technology enthusiast programmer currently seeking my first job in the IT field. I am 21 years old and have been studying programming for about 3 years, with great experience in Python, which is my main programming language. Additionally, I have solid knowledge of HTML, CSS, and JavaScript.
 

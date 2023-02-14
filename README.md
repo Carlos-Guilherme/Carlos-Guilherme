@@ -6,6 +6,7 @@ One of my main focuses of study is the application of SQL databases with Python,
 
 Throughout my time as a programmer, I have developed my own projects and worked on web applications and systems, always seeking to offer creative and innovative solutions. If you are looking for an engaged professional with great development potential, I am the right person to integrate your team!
 
+![328007054_5723421031113812_5217317849504722583_n](https://user-images.githubusercontent.com/72580077/218749969-c1052d8a-a0f8-4aba-9b47-b6b07b9be5c4.jpg)
 
 
 

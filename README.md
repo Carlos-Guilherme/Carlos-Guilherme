@@ -1,10 +1,12 @@
 ### Hi there, i'm Carlos Guilherme 👋
 
-Hello, I am a technology enthusiast programmer currently seeking my first job in the IT field. I am 21 years old and have been studying programming for about 3 years, with great experience in Python, which is my main programming language. Additionally, I have solid knowledge of HTML, CSS, and JavaScript.
+Hello, I am a 21-year-old programmer who has been programming in Python for 3 years. I have experience in creating automation systems, chatbots with artificial intelligence, cryptography, security tools, graphical interfaces, data analysis systems and systems with SQL databases.
 
-One of my main focuses of study is the application of SQL databases with Python, an important tool for developing robust and efficient projects. I also have a great interest in learning about artificial intelligence and cybersecurity, always seeking to improve my skills and knowledge.
+In addition, I have developed websites using HTML, CSS, and JavaScript. Although I have never worked in the field professionally, I am eager to find my first job and apply my skills to challenging and innovative projects.
 
-Throughout my time as a programmer, I have developed my own projects and worked on web applications and systems, always seeking to offer creative and innovative solutions. If you are looking for an engaged professional with great development potential, I am the right person to integrate your team!
+I am a technology enthusiast and I am always looking for new ways to improve my skills and knowledge. I am dedicated, proactive, and have great teamwork skills, always seeking to collaborate for the success of the project.
+
+If you are looking for a professional with these skills, committed and willing to contribute to the growth of your company, please contact me! I am excited to be part of your team.
 
 
 

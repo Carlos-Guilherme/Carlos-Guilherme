@@ -1,4 +1,7 @@
 # Olá, eu sou o Carlos Guilherme, seja bem-vindo! 👋 <br> Hello, I'm Carlos Guilherme, welcome! 👋
+## Sobre mim | Abot me
+### Atualmente estou me aperfeiçoando no framework Flask e nas bibliotecas de machine learning e analise de dados como o matplot, nupmy, e sciktlearn
+### I'm currently perfecting myself in the Flask framework and in machine learning and data analysis libraries such as matplot, nupmy, and sciktlearn
 ## Habilidades | Skills
 ### Linguagens | Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
